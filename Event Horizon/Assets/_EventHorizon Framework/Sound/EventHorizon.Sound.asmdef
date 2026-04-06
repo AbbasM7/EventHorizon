@@ -1,0 +1,16 @@
+{
+    "name": "EventHorizon.Sound",
+    "rootNamespace": "EventHorizon.Sound",
+    "references": [
+        "EventHorizon.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
