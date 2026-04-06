@@ -1,0 +1,20 @@
+{
+    "name": "EventHorizon.Example",
+    "rootNamespace": "EventHorizon.Example",
+    "references": [
+        "EventHorizon.Core",
+        "EventHorizon.UI",
+        "EventHorizon.Currency",
+        "EventHorizon.Sound",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

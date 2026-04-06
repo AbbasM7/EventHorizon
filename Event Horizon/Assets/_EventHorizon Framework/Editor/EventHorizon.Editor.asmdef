@@ -1,0 +1,20 @@
+{
+    "name": "EventHorizon.Editor",
+    "rootNamespace": "EventHorizon.Editor",
+    "references": [
+        "EventHorizon.Core",
+        "EventHorizon.UI",
+        "EventHorizon.Core.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
